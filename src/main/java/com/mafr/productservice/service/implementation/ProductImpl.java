@@ -4,7 +4,6 @@ import com.mafr.productservice.entity.ProductEntity;
 import com.mafr.productservice.repository.ProductRepository;
 import com.mafr.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
 import org.webjars.NotFoundException;
 

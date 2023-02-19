@@ -18,7 +18,7 @@ public class ResponseDTO<T> {
         this.httpStatus = status;
     }
 
-    private String timestamp = LocalDateTime.now().toString();
+//    private String timestamp = LocalDateTime.now().toString();
     private T data;
     private Integer status;
     private String message;
