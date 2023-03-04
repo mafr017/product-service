@@ -2,7 +2,7 @@
 ## Mentee : Muhammad Aditya Fathur Rahman
 #
 ### TASK KUBERNETES OKTETO DEPLOY
-- URL Product-Service : [Product-Service-OKTETO](http://productservicespringboot-env.eba-v2ez5ijv.us-east-1.elasticbeanstalk.com/api/v1/product)
+- URL Product-Service : [Product-Service-OKTETO](https://user-service-mafr017.cloud.okteto.net/api/v1/product)
 - Screenshot example GET /api/v1/product
 
 ### TASK DOCKER AWS DEPLOY
