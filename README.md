@@ -1,4 +1,4 @@
-# TASK Day 13 & 14 & 15 & 17 & 20 & 21 - Swagger Logging, Unit Test, Docker & AWS Deploy & Kubernetes (Okteto)
+# TASK Day 13 & 14 & 15 & 17 & 20 & 21 - Swagger Logging, Unit Test, Docker & AWS Deploy, and Kubernetes (Okteto)
 ## Mentee : Muhammad Aditya Fathur Rahman
 #
 ### TASK KUBERNETES OKTETO DEPLOY
